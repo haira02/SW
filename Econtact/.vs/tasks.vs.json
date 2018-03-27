@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Econtact.Designer",
+      "appliesTo": "Econtact.Designer.cs",
+      "type": "command"
+    }
+  ]
+}

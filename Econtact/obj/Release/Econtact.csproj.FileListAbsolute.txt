@@ -1,0 +1,9 @@
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\obj\Release\Econtact.csprojResolveAssemblyReference.cache
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\obj\Release\Econtact.Econtact.resources
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\obj\Release\Econtact.Properties.Resources.resources
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\obj\Release\Econtact.csproj.GenerateResource.Cache
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\bin\Release\Econtact.exe.config
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\bin\Release\Econtact.exe
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\bin\Release\Econtact.pdb
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\obj\Release\Econtact.exe
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\obj\Release\Econtact.pdb

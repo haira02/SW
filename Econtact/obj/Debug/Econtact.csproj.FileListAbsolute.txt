@@ -1,0 +1,9 @@
+c:\users\samrit\documents\visual studio 2017\Projects\Econtact\Econtact\bin\Debug\Econtact.exe.config
+c:\users\samrit\documents\visual studio 2017\Projects\Econtact\Econtact\bin\Debug\Econtact.exe
+c:\users\samrit\documents\visual studio 2017\Projects\Econtact\Econtact\bin\Debug\Econtact.pdb
+c:\users\samrit\documents\visual studio 2017\Projects\Econtact\Econtact\obj\Debug\Econtact.Econtact.resources
+c:\users\samrit\documents\visual studio 2017\Projects\Econtact\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+c:\users\samrit\documents\visual studio 2017\Projects\Econtact\Econtact\obj\Debug\Econtact.csproj.GenerateResource.Cache
+c:\users\samrit\documents\visual studio 2017\Projects\Econtact\Econtact\obj\Debug\Econtact.exe
+c:\users\samrit\documents\visual studio 2017\Projects\Econtact\Econtact\obj\Debug\Econtact.pdb
+C:\Users\samrit\Documents\Visual Studio 2017\Projects\Econtact\Econtact\obj\Debug\Econtact.csprojResolveAssemblyReference.cache
